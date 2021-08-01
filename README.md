@@ -55,5 +55,6 @@ Exploratory data analysis on Wuzzuf dataset
 
 ![cap_5](https://user-images.githubusercontent.com/86895527/127767248-eb94dc54-00b8-4ca9-9b77-825a00f37b88.PNG)
 
+![cap_700](https://user-images.githubusercontent.com/86895527/127767275-8405c938-8fda-472f-a121-231a7fe69bfb.PNG)
 
 
